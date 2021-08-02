@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Verison](../images/image-header-desktop.jpg)
+![Desktop Verison](./images/image-header-desktop.jpg)
 
-![Mobile Verison](../images/image-header-mobile.jpg)
+![Mobile Verison](./images/image-header-mobile.jpg)
 
 
 
